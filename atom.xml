@@ -1,39 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>意外</title>
   
   
   <link href="https://superfreazy.github.io/atom.xml" rel="self"/>
   
   <link href="https://superfreazy.github.io/"/>
-  <updated>2026-01-13T11:53:39.824Z</updated>
+  <updated>2026-01-18T06:06:43.176Z</updated>
   <id>https://superfreazy.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>SuperFreazy</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://superfreazy.github.io/2026/01/13/hello-world/"/>
-    <id>https://superfreazy.github.io/2026/01/13/hello-world/</id>
-    <published>2026-01-13T11:53:39.823Z</published>
-    <updated>2026-01-13T11:53:39.824Z</updated>
+    <title>GitHub上搭建 Hexo 博客</title>
+    <link href="https://superfreazy.github.io/2026/01/18/github-shang-da-jian-hexo-bo-ke/"/>
+    <id>https://superfreazy.github.io/2026/01/18/github-shang-da-jian-hexo-bo-ke/</id>
+    <published>2026-01-18T05:54:00.000Z</published>
+    <updated>2026-01-18T06:06:43.176Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;在 GitHub 上搭建 Hexo 博客是一个非常经典且高效的选择。核心思路是：&lt;strong&gt;本地环境配置 -&amp;gt; 安装 Hexo -&amp;gt; 推送到 GitHub Pages&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;按照以下步骤操作，大约 15-30</summary>
         
       
     
     
     
+    <category term="神器" scheme="https://superfreazy.github.io/categories/%E7%A5%9E%E5%99%A8/"/>
+    
+    
+    <category term="hexo,Github Pages" scheme="https://superfreazy.github.io/tags/hexo-Github-Pages/"/>
     
   </entry>
   
